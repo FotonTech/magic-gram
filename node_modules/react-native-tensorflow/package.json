@@ -1,0 +1,23 @@
+{
+  "name": "react-native-tensorflow",
+  "version": "0.1.8",
+  "description": "A TensorFlow inference library for react native",
+  "main": "index.js",
+  "author": "reweber",
+  "license": "Apache 2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reneweb/react-native-tensorflow"
+  },
+  "keywords": [
+    "react-native",
+    "tensorflow",
+    "mobile"
+  ],
+  "peerDependencies": {
+    "react-native": ">=0.48.3"
+  },
+  "dependencies": {
+    "uuid": "^3.1.0"
+  }
+}
