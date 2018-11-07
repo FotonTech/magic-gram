@@ -1,4 +1,4 @@
-package com.magichashtags;
+package com.magicgram;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "MagicHashtags";
+        return "MagicGram";
     }
 }

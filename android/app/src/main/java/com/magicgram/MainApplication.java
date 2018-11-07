@@ -1,4 +1,4 @@
-package com.magichashtags;
+package com.magicgram;
 
 import android.app.Application;
 
